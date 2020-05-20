@@ -1,4 +1,4 @@
 plot(iris$Sepal.Length, 
      iris$Sepal.Width,
-     col='blue',
+     col='red',
      pch=16)
